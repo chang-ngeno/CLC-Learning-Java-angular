@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+h1{
+	text-transform: uppercase;
+	text-align: center;
+}
+.table{
+	text-align: center;
+	height: auto;
+	width: 100%;
+}
+h2{
+	background-color: #b6d2ec;
+	color: #2a75ba;
+	padding: 5px;
+}
